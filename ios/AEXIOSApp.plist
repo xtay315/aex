@@ -33,9 +33,9 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>8CDLJMVW8X.com.aex.ios.AEX</string>
+                <string>com.aex.iosApp</string>
                 <key>bundle-version</key>
-                <string>1.2.3</string>
+                <string>1.0.6</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
